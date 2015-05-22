@@ -1,0 +1,37 @@
+Major changelogs for LoLSearch.ini
+For minor details please check github.com/dylu/LeagueSearch
+
+----------------------------------------------------------------------------------------------------
+For myself:
+ Version Information
+  +0.001 = minor feature/comments
+  +0.010 = lots of minor features or an important bugfix
+  +0.100 = huge feature or change.
+  +1.000 = Up a 'release' version
+----------------------------------------------------------------------------------------------------
+
+
+
+v 0.120
+-- (05.21.15)
+Smooth transition works properly.
+Got rid of annoying window focus issues every refresh cycle.
+
+
+v 0.110
+-- (05.21.15)
+Implemented a smooth transition from Summoner Name -> Summoner ID.
+Kinda works but buggy for some reason.  Only stable with old version.
+New textures to test with.
+
+
+v 0.100
+-- (05.19.15)
+Decided it was a good idea to sync changes on Github.  Synced on May 21, 2015.
+Works!  Basic features working.
+ (input summoner Name -> Confirm Summoner's ID -> Fetches game info)
+Uses three calls to the Riot API.
+ Call #1: Determines input summoner name's summoner ID.
+ Call #2: Fetches the current game the given summoner is in.
+ Call #3: Fetches the League/Division each summoner in given game is in.
+Currently using textures borrowed from the 'Encoded' Rainmeter suite for testing.
