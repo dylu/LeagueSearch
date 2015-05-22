@@ -1,9 +1,10 @@
 #################
-## David's
+## David's specific settings for the lolrain project.
 #################
 
 *.psd
-
+*.lua
+DownloadFile/
 
 
 #################
