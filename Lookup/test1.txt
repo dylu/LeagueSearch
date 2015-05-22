@@ -1,1 +1,1 @@
-{"hurricaned":{"id":24195176,"name":"Hurricaned","profileIconId":539,"summonerLevel":30,"revisionDate":1431827473000}}
+{"netherviper":{"id":23299673,"name":"NetherViper","profileIconId":745,"summonerLevel":30,"revisionDate":1432262471000}}
