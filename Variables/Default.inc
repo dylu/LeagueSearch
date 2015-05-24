@@ -1,0 +1,31 @@
+; Default loaded file for the LeagueSearch rainmeter skin.
+; Handles Fonts and Colors.
+; Author=dlu
+
+[Variables]
+
+; ---------- Font Faces ----------
+fontface1=Code Light
+fontface2=Code Bold
+fontface3=ITC Avant Garde Pro Md
+
+; ------------ Colors ------------
+cBlack=0,0,0,245
+cWhite=255,255,255,245
+cLGray=220,220,220,245
+cW_Sdw=10,10,10,255
+
+; Temporary Colors to play around with.  //Borrowed from Encoded Rainmeter Suite.
+Color1=128,128,128,255
+Color2=255,255,255,230
+Color3=128,128,128,100
+Color4=186,55,51,200
+Color5=0,0,0,210
+Color6=255,255,255,255
+Color7=204,0,0,255
+Color8=162,18,43,255
+
+; ------------ Groups ------------
+gNames=Group_Summoner-Names
+gRnkDiv=Group_Rank-Division
+gOtherInfo=Group_Other-Information

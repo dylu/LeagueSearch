@@ -10,7 +10,16 @@ For myself:
   +1.000 = Up a 'release' version
 ----------------------------------------------------------------------------------------------------
 
+v 0.130
+-- (05.23.15)
+Added temporary(?) fonts.
+Added stylesheet, reformatted display to test.
 
+v 0.124
+-- (05.23.15)
+Added gametype to the displayed text fields.
+Reformatted text displays to include what it is they're displaying.
+Updated lookup graphical textures.
 
 v 0.120
 -- (05.21.15)
