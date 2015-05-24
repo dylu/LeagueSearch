@@ -2,8 +2,7 @@
 ; Author=dlu
 
 
-; -------------------------------------------------------------------------------------------------
-; ---------------------------------- Displaying Summoners' Names ----------------------------------
+; Note: Only Meters may have styles, not measures.
 
 ; Settings:
 ; 
@@ -25,6 +24,9 @@
 ; AntiAlias=1 (0 = none | 1 = edge smoothing)
 ; Group=groupname (defines a group this meter belongs to) (...or measure?)
 
+
+; -------------------------------------------------------------------------------------------------
+; ---------------------------------- Displaying Summoners' Infos ----------------------------------
 
 [summNames]
 FontFace=#fontface1#

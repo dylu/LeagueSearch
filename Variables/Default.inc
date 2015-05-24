@@ -4,6 +4,14 @@
 
 [Variables]
 
+; ------------- URLs -------------
+IMGS=#SKINSPATH#LeagueSearch\Variables\Images\
+this=LeagueSearch\Lookup
+this.search=#this#\LoLSearch.ini
+this.display=#this#\LoLDisplay.ini
+rain.search=#SKINSPATH#\#this.search#
+rain.display=#SKINSPATH#\#this.display#
+
 ; ---------- Font Faces ----------
 fontface1=Code Light
 fontface2=Code Bold
