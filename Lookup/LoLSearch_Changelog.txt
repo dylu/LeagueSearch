@@ -10,10 +10,13 @@ For myself:
   +1.000 = Up a 'release' version
 ----------------------------------------------------------------------------------------------------
 
+v 0.13?
+(Notes): Reformatted summoners' display text (tier and division in one string object now)
+
 v 0.130
 -- (05.23.15)
 Added temporary(?) fonts.
-Added stylesheet, reformatted display to test.
+Added stylesheet, reformatted a display to test.
 
 v 0.124
 -- (05.23.15)

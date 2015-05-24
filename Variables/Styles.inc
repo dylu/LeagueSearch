@@ -30,7 +30,7 @@
 FontFace=#fontface1#
 FontColor=#cWhite#
 FontSize=9
-StringStyle=Normal
+StringStyle=Bold
 StringAlign=Left
 StringCase=None
 StringEffect=Shadow
@@ -41,9 +41,9 @@ Group=#gNames#
 
 [rankDiv]
 FontFace=#fontface1#
-FontColor=#cWhite#
+FontColor=#cdWhite#
 FontSize=8
-StringStyle=Normal
+StringStyle=Italic
 StringAlign=Left
 StringCase=None
 StringEffect=None

@@ -10,8 +10,10 @@ fontface2=Code Bold
 fontface3=ITC Avant Garde Pro Md
 
 ; ------------ Colors ------------
-cBlack=0,0,0,245
-cWhite=255,255,255,245
+cdBlack=0,0,0,245
+cBlack=0,0,0,255
+cdWhite=255,255,255,245
+cWhite=255,255,255,255
 cLGray=220,220,220,245
 cW_Sdw=10,10,10,255
 
