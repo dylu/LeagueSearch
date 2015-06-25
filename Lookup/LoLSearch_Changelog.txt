@@ -10,6 +10,12 @@ For myself:
   +1.000 = Up a 'release' version
 ----------------------------------------------------------------------------------------------------
 
+v 0.200
+-- (06.25.15)
+New Display I believe.
+Separated LoLSearch from LoLDisplay (better control of the overlay this way)
+Currently: Simple switch (searching a summoner => display ini // middleclick => search ini)
+
 v 0.13?
 (Notes): Reformatted summoners' display text (tier and division in one string object now)
 
