@@ -10,6 +10,15 @@ For myself:
   +1.000 = Up a 'release' version
 ----------------------------------------------------------------------------------------------------
 
+v 0.210
+-- (10.15.15)
+Shifted position of 'lookup' magnifying glass to the top of the display; 
+Attached positions of both lookups to Default.inc variables.
+Moved around display to be more easily edited (X/Y positions assigned to variables)
+ + TODO: Have an additional 'debugging-text' alongside Resolved ID/Gametype to indicate 
+ 		 when actual rankings are loaded. e.g. default text = "Loading..." -> "Updated."
+ 		 Add blue/purple team tags/indicators...?
+
 v 0.200
 -- (06.25.15)
 New Display I believe.

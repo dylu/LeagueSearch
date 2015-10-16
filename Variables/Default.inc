@@ -4,6 +4,12 @@
 
 [Variables]
 
+; ------ Search Box Positon ------
+searchX=10
+searchY=10
+searchTextX=(#searchX# + 36)
+searchTextY=(#searchY# + 6)
+
 ; ------------- URLs -------------
 IMGS=#SKINSPATH#LeagueSearch\Variables\Images\
 this=LeagueSearch\Lookup
